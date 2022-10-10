@@ -5,7 +5,7 @@ My name is Omer Imran. I am an aspiring Data Scientist who is passionate about w
 I have worked as a Data Science Intern with Red Buffer – an AI solutions company in Islamabad, Pakistan. During my undergraduate degree, I worked on projects to build my data science portfolio as much as possible. A few of these projects, I have uploaded on GitHub. Here's [one](https://github.com/ossassin/EconometricsProject) for example. I am still developing my skills with projects in my masters degree as well as collaborations with my peers. If you're interested in a collaboration, then jump to the "Reach Out" section on the bottom.
 
 ## Education 🎓
-I am in my first year of masters at University of Toronto, studying data science. I have a Bachelors of Science in Management Science with a minor in Computer Science from Lahore University of Management Sciences (LUMS). I graduated LUMS with a high distinction and all four years on the merit scholarship. 
+I am in my first year of Master's at University of Toronto, studying data science. I have a Bachelor of Science in Management Science with a minor in Computer Science from Lahore University of Management Sciences (LUMS). I graduated LUMS with a high distinction and all four years on the merit scholarship. 
 
 ## Reach out 📫 
 [![](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/omerimran)
