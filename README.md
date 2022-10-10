@@ -8,4 +8,12 @@ I have worked as a Data Science Intern with Red Buffer – an AI solutions compa
 I am in my first year of masters at University of Toronto, studying data science. I have a Bachelors of Science in Management Science with a minor in Computer Science from Lahore University of Management Sciences (LUMS). I graduated LUMS with a high distinction and all four years on the merit scholarship. 
 
 ## Reach out 📫 
-Check out my [linktree](https://linktr.ee/omerimran) for the various ways you can connect with me. You can also have a look at my [portfolio](https://docs.google.com/presentation/d/1RIh0citFj1Q99zkYi7bydJP201q7dgl7Z2OKCBPHO6M/edit#slide=id.p) of work or a summary of my work experience on my [LinkedIn](https://www.linkedin.com/in/omerimranuoft/). I look forward to hearing from you ☺️ 
+[![](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/omerimran)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omerimranuoft/)
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Omer_Imran)
+
+Click on the linktree above for the various ways you can connect with me. You can also have a look at my [portfolio](https://docs.google.com/presentation/d/1RIh0citFj1Q99zkYi7bydJP201q7dgl7Z2OKCBPHO6M/edit#slide=id.p) of work. I look forward to hearing from you ☺️ 
+
+## Stats 🚀
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ossassin&layout=compact&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ossassin&show_icons=true&theme=dark"/>
