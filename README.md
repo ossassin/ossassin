@@ -2,10 +2,12 @@
 My name is Omer Imran. I am an aspiring Data Scientist who is passionate about writing, design, and social impact. Currently, I am studying Human-Centered Data Science at the Faculty of Information, University of Toronto. 
 
 ## Data Science Experience 💼
-I have worked as a Data Science Intern with Red Buffer – an AI solutions company in Islamabad, Pakistan. During my undergraduate degree, I worked on projects to build my data science portfolio as much as possible. A few of these projects, I have uploaded on GitHub. Here's [one](https://github.com/ossassin/EconometricsProject) for example. I am still developing my skills with projects in my masters degree as well as collaborations with my peers. If you're interested in a collaboration, then jump to the "Reach Out" section on the bottom.
+I have worked as a Data Science Intern with Red Buffer – an AI solutions company in Islamabad, Pakistan – for a Canadian Client. During my undergraduate degree, I worked on projects to build my data science portfolio as much as possible. A few of these projects, I have uploaded on GitHub. Here's [one](https://github.com/ossassin/EconometricsProject) for example. I am still developing my skills with projects in my masters degree as well as collaborations with my peers. If you're interested in a collaboration, then jump to the "Reach Out" section on the bottom.
 
 ## Education 🎓
-I am in my first year of Master's at University of Toronto, studying data science. I have a Bachelor of Science in Management Science with a minor in Computer Science from Lahore University of Management Sciences (LUMS). I graduated LUMS with a high distinction and all four years on the merit scholarship. 
+- Master's of Information in Human-Centered Data Science at University of Toronto
+- Bachelor's of Science in Management Science with a Minor in Computer Science from Lahore University of Management Sciences
+- Awarded Merit Scholarships during my undergraduate and graduate degrees!
 
 ## Reach out 📫 
 [![](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/omerimran)
