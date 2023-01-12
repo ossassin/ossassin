@@ -15,7 +15,3 @@ I have worked as a Data Science Intern with Red Buffer – an AI solutions compa
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Omer_Imran)
 
 Click on the linktree above for the various ways you can connect with me. You can also have a look at my [portfolio](https://docs.google.com/presentation/d/1RIh0citFj1Q99zkYi7bydJP201q7dgl7Z2OKCBPHO6M/edit#slide=id.p) of work. I look forward to hearing from you ☺️ 
-
-## Stats 🚀
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ossassin&layout=compact&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api?username=ossassin&show_icons=true&theme=dark"/>
