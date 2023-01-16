@@ -3,7 +3,7 @@ My name is Omer Imran. I am an aspiring Data Scientist who is passionate about w
 
 
 ### Data Science Experience 
-I have worked as a Data Science Intern with Red Buffer (a top ML services company in Pakistan) for a Canadian client. During my undergraduate degree, I worked on projects to build my data science portfolio as much as possible. A few of these projects, I have uploaded on GitHub. Here's [one](https://github.com/ossassin/EconometricsProject) for example. I am still developing my skills with projects in my masters degree as well as collaborations with my peers. If you're interested in a collaboration, then jump to the "Reach Out" section on the bottom.
+I have worked as a Data Science Intern with Red Buffer (a top ML services company in Pakistan) for a Canadian client. During my undergraduate degree, I worked on several projects to build my data science portfolio. I have uploaded a selection on GitHub. I am still developing my skills with projects in my Master's degree as well as collaborations with my peers.
 
 
 ### Education
