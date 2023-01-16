@@ -1,5 +1,5 @@
 ### Intro
-I am an aspiring Data Scientist who is passionate about writing, design, and social impact. Currently, I am studying Human-Centered Data Science at the Faculty of Information, University of Toronto. 
+Specializing in data science from University of Toronto after developing a generalist tech skillset across multiple internships during my undergrad. Actively pursuing data science internships and co-ops for summer 2023.
 
 
 ### Data Science Experience 
