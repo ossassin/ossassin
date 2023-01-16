@@ -1,5 +1,5 @@
 ### Intro
-My name is Omer Imran. I am an aspiring Data Scientist who is passionate about writing, design, and social impact. Currently, I am studying Human-Centered Data Science at the Faculty of Information, University of Toronto. 
+I am an aspiring Data Scientist who is passionate about writing, design, and social impact. Currently, I am studying Human-Centered Data Science at the Faculty of Information, University of Toronto. 
 
 
 ### Data Science Experience 
