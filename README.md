@@ -1,9 +1,11 @@
 ### Intro
-Specializing in data science from University of Toronto after developing a generalist tech skillset across multiple internships during my undergrad. Actively pursuing data science internships and co-ops for summer 2023.
+I'm currently working for the Ontario Ministry of Citizenship and Multiculturalism (MCM) as a data analyst. I graduated in 2024 specializing in data science from University of Toronto after developing a generalist tech skillset across multiple internships during my undergrad.
 
 
 ### Data Science Experience 
-I have worked as a Data Science Intern with Red Buffer (a top ML services company in Pakistan) for a Canadian client. During my undergraduate degree, I worked on several projects to build my data science portfolio. I have uploaded a selection on GitHub. I am still developing my skills with projects in my Master's degree as well as collaborations with my peers.
+I joined the Ontario Ministry of Transportation as a data co-op in 2023 where I designed Power BI dashboards, automations with Power Automate and VBA, and an app with Power App. I was then promoted to a junior data analyst in 2024 working for the Ontario Ministry of Children Community and Social Services where I was the scrum lead for the data integration unit. Additionally, I cleaned datasets with R, crunched KPIs in a Power BI dashboard, and presented results to executives. I was then promoted to a data analyst position with the MCM where I'm answering stat requests, designing monthly reports, and writing foundational data goverance materials. 
+
+During my undergraduate degree, I worked on several projects to build my data science portfolio including an Data Science Internship with Red Buffer (a top ML services company in Pakistan) for a Canadian client. I have uploaded a selection on GitHub. I am still developing my skills with side projects.
 
 
 ### Education
