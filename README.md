@@ -1,9 +1,9 @@
 ### Intro
-I'm currently working for the Ontario Ministry of Citizenship and Multiculturalism (MCM) as a data analyst. I graduated in 2024 specializing in data science from University of Toronto after developing a generalist tech skillset across multiple internships during my undergrad.
+I'm currently working for the Ontario Public Service as a data scientist. I graduated in 2024 specializing in data science from University of Toronto after developing a generalist tech skillset across multiple internships during my undergrad.
 
 
 ### Data Science Experience 
-I joined the Ontario Ministry of Transportation as a data co-op in 2023 where I designed Power BI dashboards, automations with Power Automate and VBA, and an app with Power App. I was then promoted to a junior data analyst in 2024 working for the Ontario Ministry of Children Community and Social Services where I was the scrum lead for the data integration unit. Additionally, I cleaned datasets with R, crunched KPIs in a Power BI dashboard, and presented results to executives. I was then promoted to a data analyst position with the MCM where I'm answering stat requests, designing monthly reports, and writing foundational data goverance materials. 
+I joined the Ontario Ministry of Transportation as a data co-op in 2023 where I designed Power BI dashboards, automations with Power Automate and VBA, and an app with Power App. I was then promoted to a junior data analyst in 2024 working for the Ontario Ministry of Children Community and Social Services where I was the scrum lead for the data integration unit. Additionally, I cleaned datasets with R, crunched KPIs in a Power BI dashboard, and presented results to executives. I was then promoted to a data analyst position with the Ministry of Citizenship and Multiculturalism where I answered stat requests, designed monthly reports, and wrote foundational data goverance artifacts. A few months later, I was promoted to a Data Scientist with Ministry of Children Community and Social Services
 
 During my undergraduate degree, I worked on several projects to build my data science portfolio including an Data Science Internship with Red Buffer (a top ML services company in Pakistan) for a Canadian client. I have uploaded a selection on GitHub. I am still developing my skills with side projects.
 
