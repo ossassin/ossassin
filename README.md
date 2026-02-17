@@ -1,5 +1,5 @@
 ### Intro
-I'm currently working for the Ontario Public Service as a data scientist. I graduated in 2024 specializing in data science from University of Toronto after developing a generalist tech skillset across multiple internships during my undergrad.
+I'm currently working for the Ontario Public Service as a data scientist. I teach programming and data analysis workshops in Python at the Faculty of Information, University of Toronto. I graduated in 2024 specializing in data science from University of Toronto after developing a generalist tech skillset across multiple internships during my undergrad.
 
 
 ### Data Science Experience 
